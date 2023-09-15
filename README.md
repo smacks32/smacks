@@ -1,2 +1,0 @@
-# smacks
-Creal-Stealer grabber
